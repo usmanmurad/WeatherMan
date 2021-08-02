@@ -1,5 +1,8 @@
 /venv
 /.idea
-/__pychache__
+/__pycache__
 /scrapydemo/venv
 /scrapydemo/.idea
+/scrapydemo/scrapydemo/__pycache__
+/scrapydemo/scrapy.cfg
+
