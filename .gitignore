@@ -7,4 +7,8 @@
 /scrapydemo/scrapydemo/scrapydemo/__pycache__
 /scrapydemo/scrapydemo/scrapydemo/spiders/__pycache__
 /scrapydemo/scrapy.cfg
+/scrapydemo/scrapydemo/scrapydemo/spiders/__init__.py
+/scrapydemo/scrapydemo/scrapydemo/settings.py
+/scrapydemo/scrapydemo/scrapydemo/middlewares.py
+/scrapydemo/scrapydemo/scrapydemo/__init__.py
 
