@@ -1,0 +1,14 @@
+/venv
+/.idea
+/__pycache__
+/README.md
+/scrapydemo
+/DjangoUsersCustomized/venv
+/DjangoUsersCustomized/db.sqlite3
+/DjangoUsersCustomized/.idea
+/DjangoUsersCustomized/DjangoUsersCustomized/__pycache__
+/DjangoUsersCustomized/Users/__pycache__
+/DjangoUsersCustomized/Users/management/__pycache__
+/DjangoUsersCustomized/Users/management/commands/__pycache__
+/DjangoUsersCustomized/__pycache__
+/DjangoUsersCustomized/Users/migrations/__pycache__

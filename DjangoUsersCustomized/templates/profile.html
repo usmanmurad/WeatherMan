@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profile</title>
+</head>
+<body>
+    <a href="/logout/">Logout</a>
+    <br>
+    <table>
+    <tr>
+        <td>
+            User Name
+        </td>
+        <td>
+            {{ user.username }}
+        </td>
+    </tr>
+    <tr>
+        <td>
+            First Name
+        </td>
+        <td>
+            {{ user.first_name }}
+        </td>
+    </tr><tr>
+        <td>
+            Last Name
+        </td>
+        <td>
+            {{ user.last_name }}
+        </td>
+    </tr><tr>
+        <td>
+            Bio
+        </td>
+        <td>
+            {{ user.bio }}
+        </td>
+    </tr><tr>
+        <td>
+            Email
+        </td>
+        <td>
+            {{ user.email }}
+        </td>
+    </tr><tr>
+        <td>
+            Phone
+        </td>
+        <td>
+            {{ user.phone }}
+        </td>
+    </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+    <h1>Login</h1>
+      <h4>Please enter your credentials below</h4>
+
+      <form method="post" action="/login/">
+         <label for="username">User Name</label>
+         <input type="text" id="username" name="username" required>
+         <br>
+         <label for="password">Password</label>
+         <input type="password" id="password" name="password" required>
+         <br>
+          {% if error is not None %}
+          <span id="error">{{ error }}</span>
+          {% endif %}
+         <input type="submit" value="Submit">
+      </form>
+      Don't have an account? Register here <a href="/register/">Register</a>
+</body>
+</html>
