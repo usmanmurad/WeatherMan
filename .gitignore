@@ -6,13 +6,6 @@
 /DjangoUsersCustomized/venv
 /DjangoUsersCustomized/db.sqlite3
 /DjangoUsersCustomized/.idea
-/DjangoUsersCustomized/DjangoUsersCustomized/__init__.py
-/DjangoUsersCustomized/DjangoUsersCustomized/asgi.py
-/DjangoUsersCustomized/DjangoUsersCustomized/wsgi.py
-/DjangoUsersCustomized/Users/management/__init__.py
-/DjangoUsersCustomized/Users/management/commands/__init__.py
-/DjangoUsersCustomized/Users/migrations
-/DjangoUsersCustomized/Users/__init__.py
 /DjangoUsersCustomized/DjangoUsersCustomized/__pycache__
 /DjangoUsersCustomized/Users/__pycache__
 /DjangoUsersCustomized/Users/management/__pycache__
