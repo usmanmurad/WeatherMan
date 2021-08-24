@@ -1,0 +1,15 @@
+/venv
+/.idea
+/__pycache__
+/README.md
+/scrapydemo
+/DjangoUsersCustomized/venv
+/DjangoUsersCustomized/db.sqlite3
+/DjangoUsersCustomized/.idea
+/DjangoUsersCustomized/DjangoUsersCustomized/__init__.py
+/DjangoUsersCustomized/DjangoUsersCustomized/asgi.py
+/DjangoUsersCustomized/DjangoUsersCustomized/wsgi.py
+/DjangoUsersCustomized/Users/management/__init__.py
+/DjangoUsersCustomized/Users/management/commands/__init__.py
+/DjangoUsersCustomized/Users/migrations
+/DjangoUsersCustomized/Users/__init__.py
