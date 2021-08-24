@@ -13,3 +13,8 @@
 /DjangoUsersCustomized/Users/management/commands/__init__.py
 /DjangoUsersCustomized/Users/migrations
 /DjangoUsersCustomized/Users/__init__.py
+/DjangoUsersCustomized/DjangoUsersCustomized/__pycache__
+/DjangoUsersCustomized/Users/__pycache__
+/DjangoUsersCustomized/Users/management/__pycache__
+/DjangoUsersCustomized/Users/management/commands/__pycache__
+/DjangoUsersCustomized/__pycache__
