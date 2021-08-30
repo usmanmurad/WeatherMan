@@ -5,7 +5,8 @@
 /__pycache__
 /djangorestproject/djangorestproject/__pycache__
 /djangorestproject/usermanager/migrations
-/djangorestproject/usermanager/pycache
+/djangorestproject/usermanager/__pycache__
 /DjangoUsersCustomized
 /scrapydemo
 /README.md
+/.idea
