@@ -1,0 +1,12 @@
+/venv
+/djangorestproject/venv
+/djangorestproject/.idea
+/djangorestproject/__pycache__
+/__pycache__
+/djangorestproject/djangorestproject/__pycache__
+/djangorestproject/usermanager/migrations
+/djangorestproject/usermanager/__pycache__
+/DjangoUsersCustomized
+/scrapydemo
+/README.md
+/.idea
