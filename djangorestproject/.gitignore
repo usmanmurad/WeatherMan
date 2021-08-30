@@ -1,7 +1,7 @@
-/venv
-/djangorestproject/usermanager/migrations
-/djangorestproject/venv
-/djangorestproject/usermanager/migrations/__pycache__
-/djangorestproject/usermanager/__pycache__
-/djangorestproject/djangorestproject/__pycache__
-/djangorestproject/.idea
+venv
+djangorestproject/usermanager/migrations
+djangorestproject/venv
+djangorestproject/usermanager/migrations/__pycache__
+djangorestproject/usermanager/__pycache__
+djangorestproject/djangorestproject/__pycache__
+djangorestproject/.idea
